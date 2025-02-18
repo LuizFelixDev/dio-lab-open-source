@@ -28,7 +28,7 @@ Estudante de Sistemas de informação na UFRN
 
 ## 📫 Contato
 
-📧 Email: [luizhenriquefelix138@gmail.com](mailto: luizhenriquefelix138@gmail.com)  
+📧 Email: [luizhenriquefelix138@gmail.com](E-mail: luizhenriquefelix138@gmail.com)  
 📌 LinkedIn: [linkedin.com/in/luiz-henrique-felix](https://www.linkedin.com/in/luiz-henrique-felix-72a376309/)  
 🚀 GitHub: [LuizFelixDev](https://github.com/LuizFelixDev)  
 
